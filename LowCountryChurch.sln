@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowCountryChurch", "LowCountryChurch\LowCountryChurch.csproj", "{FA088C17-7ACF-4E30-90A0-83C9370BA1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowCountryChurch.Tests", "LowCountryChurch.Tests\LowCountryChurch.Tests.csproj", "{59657B79-6436-46D8-A920-E0EAB64E1E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA088C17-7ACF-4E30-90A0-83C9370BA1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA088C17-7ACF-4E30-90A0-83C9370BA1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA088C17-7ACF-4E30-90A0-83C9370BA1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA088C17-7ACF-4E30-90A0-83C9370BA1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59657B79-6436-46D8-A920-E0EAB64E1E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59657B79-6436-46D8-A920-E0EAB64E1E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59657B79-6436-46D8-A920-E0EAB64E1E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59657B79-6436-46D8-A920-E0EAB64E1E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
